@@ -1,4 +1,6 @@
-# Workflows' Seminar ARCHER
+# Workflows Seminar ARCHER
+
+By [Rosa Filgueira](https://www.epcc.ed.ac.uk/about-us/our-team/dr-rosa-filgueira)
 
 
 ## Day 1: Understanding Scientific Workflows (2 Hours)
