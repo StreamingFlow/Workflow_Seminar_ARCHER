@@ -27,7 +27,7 @@ By [Rosa Filgueira](https://www.epcc.ed.ac.uk/about-us/our-team/dr-rosa-filgueir
 ## Additional Material (not covered during the seminar)
 
 - ['Complex' Scientific Use Cases with dispel4py](https://github.com/StreamingFlow/d4py_workflows)
-- [Monitoring dispel4py workflows (obtaining traces at run-time)](./Monitoring_Traces_dispel4py_2_0.ipynb)
+- [Google Colab: Monitoring dispel4py workflows (obtaining traces at run-time)](./Monitoring_Traces_dispel4py_2_0.ipynb)
   
 
 
