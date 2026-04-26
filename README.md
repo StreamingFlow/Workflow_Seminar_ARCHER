@@ -1,4 +1,5 @@
-# Workflows_Seminar
+# Workflows' Seminar ARCHER
+
 
 ## Day 1: Understanding Scientific Workflows (2 Hours)
 
