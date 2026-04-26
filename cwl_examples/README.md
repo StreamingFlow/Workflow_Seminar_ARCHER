@@ -1,4 +1,4 @@
-# CWL Solution for Day 1 - Module 2
+# CWL Solutions for Day 1 - Module 2
 
 These examples match the CWL topics in the training slides: a `.cwl` file describes the tool/workflow, and a `.yml` file gives the values used when running it.
 
