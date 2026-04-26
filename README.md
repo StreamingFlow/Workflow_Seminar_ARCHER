@@ -11,7 +11,7 @@ By [Rosa Filgueira](https://www.epcc.ed.ac.uk/about-us/our-team/dr-rosa-filgueir
     - Basic Concepts
 - [Module 2: Creating Workflows with CWL](./Day1-Module2.pdf)
   - Introduction to CWL
-  - [Google Colab: Installing CWL & Exercise](./cwl_tutorial_2024.ipynb)
+  - [Google Colab: Installing CWL & Exercise](./cwl_tutorial_2026.ipynb)
 
 ## Day 2: Exploring dispel4py and its applications (2 Hours)
 
