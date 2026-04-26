@@ -1,6 +1,8 @@
-# CWL examples for Day 1 - Module 2
+# CWL Solution for Day 1 - Module 2
 
 These examples match the CWL topics in the training slides: a `.cwl` file describes the tool/workflow, and a `.yml` file gives the values used when running it.
+
+Basically these are the **solutions of the two Hands-On Exercises** (Exercise 1 ; Exercise 2) presented at the end of [Day1-Module2.pdf](../Day1-Module2.pdf)
 
 ## Install
 
@@ -8,7 +10,7 @@ These examples match the CWL topics in the training slides: a `.cwl` file descri
 python -m pip install cwltool
 ```
 
-## Run the examples
+## Run the solutions
 
 From inside this folder:
 
@@ -52,7 +54,10 @@ The final workflow output is `count.txt`, containing the number of matching line
 - `05_workflow/`: workflow chaining TAR, GREP, and WC
 - `data/`: sample text file and compressed tar archive
 
-## 06 Input parameters example
+## Aditionally, we have 06 Input parameters example
+
+
+This is not part of the solution for Exercise 1 and Exercise 2. It just is to illustrate an example of input parameters.
 
 This folder reproduces the `inp.cwl` / `inp-job.yml` example from the slides.
 It demonstrates:
