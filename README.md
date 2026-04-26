@@ -17,11 +17,10 @@
 - Module 3: Introduction to dispel4py
     - [dispel4py - Basic Concepts](./Day2-Module3.pdf)
     - [dispel4py - Advanced Concepts](./Day2-Module4.pdf)
-    - [Google Colab: Part I - Simple Examples](./Testing_dispel4py_2_0.ipynb)
 
 - Module 4: Hands-on Exercises
-  - [Google Colab: Introduction to dispel4py](./Intro_Tutorial_dispel4py_2_0.ipynb)
-  - [Google Colab: 'Simple' Scientific Use Cases with dispel4py](./Testing_dispel4py_2_0.ipynb)
+  - [Google Colab Part I: Introduction to dispel4py](./Intro_Tutorial_dispel4py_2_0.ipynb)
+  - [Google Colab Part II: 'Simple' Scientific Use Cases with dispel4py](./Testing_dispel4py_2_0.ipynb)
 
 
 ## Additional Material (not covered during the seminar)
