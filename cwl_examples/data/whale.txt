@@ -1,0 +1,2 @@
+Call me Ishmael.
+This is a tiny example file used to demonstrate CWL File inputs.
