@@ -5,8 +5,7 @@ By [Rosa Filgueira](https://www.epcc.ed.ac.uk/about-us/our-team/dr-rosa-filgueir
 
 ## Day 1: Understanding Scientific Workflows (2 Hours)
 
-- Module 1: Introduction to Scientific Workflows
- - [Module 1](./Day1-Module1.pdf)
+- [Module 1: Introduction to Scientific Workflows](./Day1-Module1.pdf)
     - Defining scientific workflows and Workflow Management Systems (WMS)
     - How to Select WMS
     - Basic Concepts
