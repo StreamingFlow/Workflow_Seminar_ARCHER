@@ -1,0 +1,4 @@
+search_term: "CWL"
+input_file:
+  class: File
+  path: ../data/data.txt

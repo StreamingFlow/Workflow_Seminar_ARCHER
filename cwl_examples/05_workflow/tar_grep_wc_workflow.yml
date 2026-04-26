@@ -1,0 +1,5 @@
+archive:
+  class: File
+  path: ../data/sample_text.tar.gz
+extracted_filename: "data.txt"
+search_term: "CWL"
