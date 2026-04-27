@@ -64,7 +64,7 @@ The final workflow output is `count.txt`, containing the number of matching line
 - `05_workflow/`: workflow chaining TAR, GREP, and WC
 - `data/`: sample text file and compressed tar archive
 
-## Aditionally Example (06)
+##  06 Input parameters example
 
 This is not part of the solution for Exercise 1 nor Exercise 2. It just an additional example to illustrate for several input parameters, which corresponds to one of the examples shown in `Day1-Module2.pdf` slides.
 
@@ -82,3 +82,13 @@ Run it with:
 cd 06_input_parameters
 cwltool inp.cwl inp-job.yml
 ```
+
+## Additional notebook solution examples 
+
+The following folders contain further solutions for the notebook sections 6.2, 7.3, 7.4 and 7.5 :
+
+- 07_Notebook_62_outputBinding
+- 08_Notebook_73_Inputs
+- 09_Notebook_74_Steps
+- 10_Notebook_74_StepsII
+- 11_Notebook_75_Outputs
